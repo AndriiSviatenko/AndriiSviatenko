@@ -1,5 +1,5 @@
 # 💫 About Me:
-Unity Developer with experience in developing games for Android, iOS, PC, and Web. <br>Team leader in teams of various sizes. <br>I deliver projects to deadlines, ensuring high quality. <br>Deep knowledge of Unity and gameplay. <br>Adaptable to different platforms. <br>I strive to create exciting and innovative games.
+I'm Andriy, I have over 2 years of experience in game development. During this time, I have worked on a wide range of projects, from hyper-casual games to large-scale projects. I am best at creating key game mechanics and communicating effectively with the team. I am able to quickly adapt to new environments and technologies, which allows me to find the best solutions to complex problems. Thanks to my experience and ability to work in a team, I am able to significantly improve the development process and the final product.
 
 
 ## 🌐 Socials:
