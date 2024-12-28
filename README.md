@@ -1,15 +1,10 @@
-<h2 align="left">Hi 👋! My name is Andrew and I'm a Unity devloper</h2>
+<h2 align="left">Hi 👋! My name is Andrew and I'm a Unity developer</h2>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AndriiSviatenko&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndriiSviatenko&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="160" src="https://media0.giphy.com/media/xUOxeZUc8UFwMgH2MM/200w.gif?cid=6c09b9521gswhtszgqhzsniexla6hr2qsirwu88pdq3bulfq&ep=v1_gifs_search&rid=200w.gif&ct=g"  />
 
 ###
 
@@ -46,6 +41,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
+
+###
+
+<img align="right" height="150" src="https://media0.giphy.com/media/xUOxeZUc8UFwMgH2MM/200w.gif?cid=6c09b9521gswhtszgqhzsniexla6hr2qsirwu88pdq3bulfq&ep=v1_gifs_search&rid=200w.gif&ct=g"  />
 
 ###
 
