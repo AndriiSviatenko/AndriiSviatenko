@@ -44,7 +44,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media0.giphy.com/media/xUOxeZUc8UFwMgH2MM/200w.gif?cid=6c09b9521gswhtszgqhzsniexla6hr2qsirwu88pdq3bulfq&ep=v1_gifs_search&rid=200w.gif&ct=g"  />
+<img align="right" height="200" src="https://media0.giphy.com/media/xUOxeZUc8UFwMgH2MM/200w.gif?cid=6c09b9521gswhtszgqhzsniexla6hr2qsirwu88pdq3bulfq&ep=v1_gifs_search&rid=200w.gif&ct=g"  />
 
 ###
 
@@ -58,18 +58,6 @@
   <a href="https://www.linkedin.com/in/minex202222/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/AndriiSviatenko/AndriiSviatenko/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/AndriiSviatenko/count.svg?"  />
 </div>
 
 ###
