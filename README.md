@@ -1,10 +1,8 @@
-<h2 align="left">Hi 👋! My name is Andrew and I'm a Unity developer</h2>
+<h1 align="left">ANDRII SVIATENKO<br>UNITY DEVELOPER, 2+ YEARS EXPERIENCE, GMT +2</h1>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndriiSviatenko&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
+<h2 align="left">Telegram: @andrewDeveloperr<br>sviatenkoandrii@gmail.com</h2>
 
 ###
 
@@ -44,7 +42,35 @@
 
 ###
 
-<img align="right" height="200" src="https://media0.giphy.com/media/xUOxeZUc8UFwMgH2MM/200w.gif?cid=6c09b9521gswhtszgqhzsniexla6hr2qsirwu88pdq3bulfq&ep=v1_gifs_search&rid=200w.gif&ct=g"  />
+<h3 align="left">ABOUT</h3>
+
+###
+
+<p align="left">Unity Developer with over 2 years of experience in game development for mobile, PC, and console platforms. I specialize in gameplay optimization, project architecture, and SDK integration, including analytics, advertising, and monetization. I have worked in teams of 2 to 20 people and successfully led smaller teams, mentoring junior developers.<br><br>Likewise, I have developed games from scratch across various genres, including mid-core, hyper-casual, and shooters. Proficient in modern Unity tools such as DOTS and ECS, I am passionate about integrating AI/ML into gameplay and exploring cutting-edge Unity technologies. I also share my expertise through technical articles and continuously keep up with industry trends.</p>
+
+###
+
+<h3 align="left">Skills</h3>
+
+###
+
+<p align="left">Unity engine: UI, Physics, Animations, C#, Vector Math OOP, MVx, GoF patterns, SOLID, GRASP, TDD, DDD, Clean Architecture, UI Toolkit<br>ECS: LeoECS, Entitas, Morpeh, custom ECS<br>Optimisation: CPU, GPU, RAM, UI, build size, work time, workflow <br>Asynchronous programming: Coroutines, Tasks, UniTask <br>SDK implementation: Google Play Services, Appsflyer <br>Monetisation implementation: AdMob, Appodeal, Applovin, UnityAds <br>Implementing analytics: Firebase, GameAnalytics <br>Working with plugins: DoTwean, TmPro, Odin Inspector, UniRx, Zenject, VContainer, custom DI, Shaders, Figma, Photoshop, Esoteric Software, Spine Editor, Git <br>Created extensions for UnityEditor, AssetBundles and Addressables <br>AI: State Machine, ML, Utility AI, Behaviour Tree, GOAP</p>
+
+###
+
+<h3 align="left">Experience</h3>
+
+###
+
+<p align="left">Net.Cat.World: 2022- Present - 2 years<br>Optimised the size of the game by 48,2%, which allowed it to load faster and reduce the amount of space on users' devices<br>Reduced level loading time by 36,2%, which significantly improved user experience and player retention<br>Increased player engagement by 11,9% by introducing new game mechanics and improving the game's balance<br>Reduced the game's RAM consumption by 5,6%, resulting in smoother gameplay and fewer freezes<br>Increased the number of active users by 20,1%</p>
+
+###
+
+<h3 align="left">Languages</h3>
+
+###
+
+<p align="left">English - B2<br>Russian - B2<br>Ukrainian - native</p>
 
 ###
 
@@ -56,5 +82,9 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<img align="right" height="200" src="https://media0.giphy.com/media/xUOxeZUc8UFwMgH2MM/200w.gif?cid=6c09b9521gswhtszgqhzsniexla6hr2qsirwu88pdq3bulfq&ep=v1_gifs_search&rid=200w.gif&ct=g"  />
 
 ###
