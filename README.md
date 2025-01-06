@@ -1,4 +1,4 @@
-<h1 align="left">ANDRII SVIATENKO<br>UNITY DEVELOPER, 2+ YEARS EXPERIENCE, GMT +2</h1>
+<h1 align="left">UNITY DEVELOPER, 2+ YEARS EXPERIENCE, GMT +2</h1>
 
 ###
 
@@ -42,7 +42,7 @@
 
 ###
 
-<h3 align="left">ABOUT</h3>
+<h3 align="left">🔍 ABOUT</h3>
 
 ###
 
@@ -50,7 +50,7 @@
 
 ###
 
-<h3 align="left">Skills</h3>
+<h3 align="left">💻 Skills</h3>
 
 ###
 
@@ -58,7 +58,7 @@
 
 ###
 
-<h3 align="left">Experience</h3>
+<h3 align="left">💼 Experience</h3>
 
 ###
 
@@ -66,7 +66,7 @@
 
 ###
 
-<h3 align="left">Languages</h3>
+<h3 align="left">🌐 Languages</h3>
 
 ###
 
