@@ -1,90 +1,10 @@
-<h1 align="left">UNITY DEVELOPER, 2+ YEARS EXPERIENCE, GMT +2</h1>
+### Hi there 👋, my name is Andrew
+#### I`m Unity developer
+![I`m Unity developer](https://camo.githubusercontent.com/e82f50ed7414fff73ff780ec407b3fce53af4cafd97d56a340c051426b90e6ca/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f78554f78655a5563385546774d6748324d4d2f323030772e6769663f6369643d3663303962393532316773776874737a6771687a736e6965786c613668723271736972777538387064713362756c66712665703d76315f676966735f736561726368267269643d323030772e6769662663743d67)
 
-###
+Unity Developer with over 2 years of experience in developing games for mobile, PC, and consoles. I specialize in gameplay optimization, project architecture, and SDK integration, including analytics, advertising, and monetization. I have worked in teams of 2 to 20 people, successfully managed smaller teams, and mentored junior developers. 
+I have experience in creating games from scratch in various genres, including mid-core, hyper-casual, and shooters. I am proficient in modern Unity tools such as DOTS and ECS, and I am passionate about integrating AI/ML into gameplay by exploring advanced Unity technologies. I actively share my experience through technical articles and constantly follow industry trends.
 
-<h2 align="left">Telegram: @andrewDeveloperr<br>sviatenkoandrii@gmail.com</h2>
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="30" alt="jetbrains logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="slack logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="trello logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
-
-###
-
-<h3 align="left">🔍 ABOUT</h3>
-
-###
-
-<p align="left">Unity Developer with over 2 years of experience in game development for mobile, PC, and console platforms. I specialize in gameplay optimization, project architecture, and SDK integration, including analytics, advertising, and monetization. I have worked in teams of 2 to 20 people and successfully led smaller teams, mentoring junior developers.<br><br>Likewise, I have developed games from scratch across various genres, including mid-core, hyper-casual, and shooters. Proficient in modern Unity tools such as DOTS and ECS, I am passionate about integrating AI/ML into gameplay and exploring cutting-edge Unity technologies. I also share my expertise through technical articles and continuously keep up with industry trends.</p>
-
-###
-
-<h3 align="left">💻 Skills</h3>
-
-###
-
-<p align="left">Unity engine: UI, Physics, Animations, C#, Vector Math OOP, MVx, GoF patterns, SOLID, GRASP, TDD, DDD, Clean Architecture, UI Toolkit<br>ECS: LeoECS, Entitas, Morpeh, custom ECS<br>Optimisation: CPU, GPU, RAM, UI, build size, work time, workflow <br>Asynchronous programming: Coroutines, Tasks, UniTask <br>SDK implementation: Google Play Services, Appsflyer <br>Monetisation implementation: AdMob, Appodeal, Applovin, UnityAds <br>Implementing analytics: Firebase, GameAnalytics <br>Working with plugins: DoTwean, TmPro, Odin Inspector, UniRx, Zenject, VContainer, custom DI, Shaders, Figma, Photoshop, Esoteric Software, Spine Editor, Git <br>Created extensions for UnityEditor, AssetBundles and Addressables <br>AI: State Machine, ML, Utility AI, Behaviour Tree, GOAP</p>
-
-###
-
-<h3 align="left">💼 Experience</h3>
-
-###
-
-<p align="left">Net.Cat.World: 2022- Present - 2 years<br>Optimised the size of the game by 48,2%, which allowed it to load faster and reduce the amount of space on users' devices<br>Reduced level loading time by 36,2%, which significantly improved user experience and player retention<br>Increased player engagement by 11,9% by introducing new game mechanics and improving the game's balance<br>Reduced the game's RAM consumption by 5,6%, resulting in smoother gameplay and fewer freezes<br>Increased the number of active users by 20,1%</p>
-
-###
-
-<h3 align="left">🌐 Languages</h3>
-
-###
-
-<p align="left">English - B2<br>Russian - B2<br>Ukrainian - native</p>
-
-###
-
-<div align="left">
-  <a href="https://www.youtube.com/@azenUNITY" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=Azen&color=FF0000&logoColor=dark&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/andriisviatenko/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<img align="right" height="200" src="https://media0.giphy.com/media/xUOxeZUc8UFwMgH2MM/200w.gif?cid=6c09b9521gswhtszgqhzsniexla6hr2qsirwu88pdq3bulfq&ep=v1_gifs_search&rid=200w.gif&ct=g"  />
-
-###
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@azenUNITY)  
